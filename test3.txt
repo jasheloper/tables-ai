@@ -1,0 +1,1 @@
+Reformat the table using the following template as a guide. Output the result in .html format.
